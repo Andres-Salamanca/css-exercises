@@ -1,0 +1,21 @@
+
+.container .text{
+
+    background-color: yellowgreen;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+
+}
+
+
+.text{
+
+    color: aqua;
+    text-align: end;
+}
+
+p {
+    color: rgb(78, 43, 43);
+    background-color: blanchedalmond;
+}
